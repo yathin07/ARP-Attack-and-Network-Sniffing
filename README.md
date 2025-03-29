@@ -29,7 +29,9 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
-
+![ifconfig](img/iconfig.png)
+![arpspoof](img/arpspoof.png)
+![windows](img/windows.png)
 
  dsniff:
 
