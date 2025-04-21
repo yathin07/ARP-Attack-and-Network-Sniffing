@@ -1,6 +1,7 @@
 # ARP-Attack-and-Network-Sniffing
 # Explore Network Sniffing and ARP Attacks
-
+## Name: Yathin Reddy T
+## Reg num: 212223100062
 # AIM:
 
 To explore network sniffing and ARP Attacks
@@ -42,15 +43,12 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
-
-
-
+![image](https://github.com/user-attachments/assets/b7772254-a022-4413-b723-d9d7faf05c2c)
 
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-
-
+![image](https://github.com/user-attachments/assets/08fd2fa0-4e90-4253-84a2-6968302038f7)
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
